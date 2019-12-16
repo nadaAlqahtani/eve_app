@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "590781364758",
+    "firebase_url": "https://eve-1a120.firebaseio.com",
+    "project_id": "eve-1a120",
+    "storage_bucket": "eve-1a120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590781364758:android:3b7966dcc7a10162e5d337",
+        "android_client_info": {
+          "package_name": "com.alnadal.nada.eve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590781364758-imm3632976csbsgrn0s8iou4ik2sp7i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alnadal.nada.eve",
+            "certificate_hash": "d93d7352639abd4dd1bed0496bfd16eed8809406"
+          }
+        },
+        {
+          "client_id": "590781364758-persktms5eemd185iduishsdrja5ekam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4_lR2jKVAPMigXwryu3L2D238XPM454"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590781364758-persktms5eemd185iduishsdrja5ekam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
